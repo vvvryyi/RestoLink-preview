@@ -1,0 +1,26 @@
+{
+  "id": "/",
+  "name": "RestoLink — ресторан под контролем",
+  "short_name": "RestoLink",
+  "lang": "ru",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#151c19",
+  "theme_color": "#151c19",
+  "description": "Меню, заказы и команда в одной системе",
+  "icons": [
+    {
+      "src": "/api/icon/192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/api/icon/512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
